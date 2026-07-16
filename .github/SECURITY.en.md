@@ -22,7 +22,7 @@ If you discover a security vulnerability, **please do NOT** create a public issu
 Please report security vulnerabilities privately through the following methods:
 
 1. **Send email to**: huifer97@163.com
-2. **Email subject**: [Security] Claude-Ally-Health Security Vulnerability Report
+2. **Email subject**: [Security] WellAlly-health Security Vulnerability Report
 
 #### Report Contents
 
@@ -128,7 +128,7 @@ We commit to:
 For security issues or suggestions, please contact:
 
 - **Email**: huifer97@163.com
-- **GitHub Issues**: [https://github.com/huifer/Claude-Ally-Health/issues](https://github.com/huifer/Claude-Ally-Health/issues) (for non-security issues only)
+- **GitHub Issues**: [https://github.com/huifer/WellAlly-health/issues](https://github.com/huifer/WellAlly-health/issues) (for non-security issues only)
 
 ---
 

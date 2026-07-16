@@ -13,7 +13,7 @@
 ## 项目结构
 
 ```
-Claude-Ally-Health/
+WellAlly-health/
 ├── .claude/
 │   ├── commands/
 │   │   ├── fitness.md          # 扩展：添加 weightloss 命令

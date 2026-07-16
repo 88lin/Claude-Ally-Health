@@ -4,7 +4,7 @@
 
 開発者として、自分の健康データを完全にコントロールしたいと思ったことはありませんか？
 
-私は**Claude-Ally-Health**という、Claude Code CLIを使用したファイルベースの個人健康情報管理システムを開発しました。
+私は**WellAlly-health**という、Claude Code CLIを使用したファイルベースの個人健康情報管理システムを開発しました。
 
 ## 特徴
 
@@ -28,7 +28,7 @@
 ## クイックスタート
 
 ```bash
-git clone https://github.com/huifer/Claude-Ally-Health.git
+git clone https://github.com/huifer/WellAlly-health.git
 
 # プロファイル設定
 /profile set 175 70 1990-01-01
@@ -94,8 +94,8 @@ my-his/
 
 ## リンク
 
-- GitHub: https://github.com/huifer/Claude-Ally-Health
-- ドキュメント: https://github.com/huifer/Claude-Ally-Health#readめ
+- GitHub: https://github.com/huifer/WellAlly-health
+- ドキュメント: https://github.com/huifer/WellAlly-health#readめ
 - ライセンス: MIT
 
 フィードバックをお待ちしています！

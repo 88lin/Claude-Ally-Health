@@ -1,10 +1,10 @@
-# Show HN: Claude-Ally-Health - AI-Native Personal Health System for Developers
+# Show HN: WellAlly-health - AI-Native Personal Health System for Developers
 
 I built a personal health data management system powered by Claude Code CLI.
 
 ## What is it?
 
-Claude-Ally-Health is a file-based personal health information system that uses Claude Code's command-line tools for data management. Think of it as your personal AI-powered health assistant that runs entirely on your machine.
+WellAlly-health is a file-based personal health information system that uses Claude Code's command-line tools for data management. Think of it as your personal AI-powered health assistant that runs entirely on your machine.
 
 ## Key Features
 
@@ -20,7 +20,7 @@ Claude-Ally-Health is a file-based personal health information system that uses 
 ```bash
 # Install Claude Code
 # Clone the repo
-git clone https://github.com/huifer/Claude-Ally-Health.git
+git clone https://github.com/huifer/WellAlly-health.git
 
 # Set up your profile
 /profile set 175 70 1990-01-01
@@ -57,8 +57,8 @@ This project demonstrates how Claude Code can be extended into a powerful domain
 
 ## Links
 
-- GitHub: https://github.com/huifer/Claude-Ally-Health
-- Docs: https://github.com/huifer/Claude-Ally-Health#readme
+- GitHub: https://github.com/huifer/WellAlly-health
+- Docs: https://github.com/huifer/WellAlly-health#readme
 - License: MIT
 
 Feedback welcome!

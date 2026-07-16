@@ -11,7 +11,7 @@
 
 ## 项目介绍
 
-**Claude-Ally-Health** 是一个基于文件的个人健康信息管理系统，使用 Claude Code CLI 进行数据管理。
+**WellAlly-health** 是一个基于文件的个人健康信息管理系统，使用 Claude Code CLI 进行数据管理。
 
 ### 核心功能
 
@@ -32,7 +32,7 @@
 ### 快速开始
 
 ```bash
-git clone https://github.com/huifer/Claude-Ally-Health.git
+git clone https://github.com/huifer/WellAlly-health.git
 
 # 设置个人信息
 /profile set 175 70 1990-01-01
@@ -46,7 +46,7 @@ git clone https://github.com/huifer/Claude-Ally-Health.git
 
 ### 项目地址
 
-https://github.com/huifer/Claude-Ally-Health
+https://github.com/huifer/WellAlly-health
 
 ### 为什么分享
 

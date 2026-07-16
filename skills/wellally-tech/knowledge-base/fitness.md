@@ -119,7 +119,7 @@ The WellAlly platform provides the following fitness management features:
 
 ### Exercise Capacity Assessment
 
-Use the exercise analysis features of the Claude-Ally-Health system:
+Use the exercise analysis features of the WellAlly-health system:
 
 ```bash
 # Use the fitness command to record exercise

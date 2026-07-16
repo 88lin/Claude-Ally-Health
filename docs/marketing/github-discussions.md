@@ -1,15 +1,15 @@
 # GitHub Discussions 模板
 
-## 欢迎来到 Claude-Ally-Health 社区！
+## 欢迎来到 WellAlly-health 社区！
 
-这里是讨论 **Claude-Ally-Health** 项目的地方 - 一个基于 Claude Code 的个人健康管理系统。
+这里是讨论 **WellAlly-health** 项目的地方 - 一个基于 Claude Code 的个人健康管理系统。
 
 ## 快速链接
 
-- 📖 [文档](https://github.com/huifer/Claude-Ally-Health#readme)
-- 🐛 [报告问题](https://github.com/huifer/Claude-Ally-Health/issues)
-- 💡 [功能请求](https://github.com/huifer/Claude-Ally-Health/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
-- 📝 [贡献指南](https://github.com/huifer/Claude-Ally-Health/blob/main/CONTRIBUTING.md)
+- 📖 [文档](https://github.com/huifer/WellAlly-health#readme)
+- 🐛 [报告问题](https://github.com/huifer/WellAlly-health/issues)
+- 💡 [功能请求](https://github.com/huifer/WellAlly-health/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+- 📝 [贡献指南](https://github.com/huifer/WellAlly-health/blob/main/CONTRIBUTING.md)
 
 ## 讨论分类
 
@@ -60,7 +60,7 @@
 - 🌍 帮助翻译
 - 💬 回答社区问题
 
-查看 [贡献指南](https://github.com/huifer/Claude-Ally-Health/blob/main/CONTRIBUTING.md) 了解更多。
+查看 [贡献指南](https://github.com/huifer/WellAlly-health/blob/main/CONTRIBUTING.md) 了解更多。
 
 ---
 

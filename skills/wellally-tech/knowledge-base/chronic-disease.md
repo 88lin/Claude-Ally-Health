@@ -161,7 +161,7 @@ The WellAlly platform provides the following chronic disease management features
 
 ### Hypertension Assessment
 
-Use the hypertension management features of the Claude-Ally-Health system:
+Use the hypertension management features of the WellAlly-health system:
 
 ```bash
 # Use the hypertension command to manage hypertension

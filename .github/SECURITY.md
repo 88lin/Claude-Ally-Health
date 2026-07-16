@@ -22,7 +22,7 @@
 请通过以下方式私密报告安全漏洞：
 
 1. **发送邮件到**: huifer97@163.com
-2. **邮件主题**: [Security] Claude-Ally-Health 安全漏洞报告
+2. **邮件主题**: [Security] WellAlly-health 安全漏洞报告
 
 #### 报告内容
 
@@ -128,7 +128,7 @@
 如有安全问题或建议，请联系：
 
 - **邮箱**: huifer97@163.com
-- **GitHub Issues**: [https://github.com/huifer/Claude-Ally-Health/issues](https://github.com/huifer/Claude-Ally-Health/issues)（仅限非安全问题）
+- **GitHub Issues**: [https://github.com/huifer/WellAlly-health/issues](https://github.com/huifer/WellAlly-health/issues)（仅限非安全问题）
 
 ---
 

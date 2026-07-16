@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for your interest in the Claude-Ally-Health project! We welcome contributions in any form.
+Thank you for your interest in the WellAlly-health project! We welcome contributions in any form.
 
 ## 📋 Table of Contents
 
@@ -13,7 +13,7 @@ Thank you for your interest in the Claude-Ally-Health project! We welcome contri
 
 ## 🤝 Code of Conduct
 
-By participating in this project, you agree to abide by our code of conduct:
+By participating in this project, you agree to abide by our [Code of Conduct (CODE_OF_CONDUCT.md)](CODE_OF_CONDUCT.md):
 
 - Respect differing viewpoints and experiences
 - Gracefully accept constructive criticism
@@ -26,7 +26,7 @@ By participating in this project, you agree to abide by our code of conduct:
 
 This is a very helpful way to contribute to the project. If you encounter issues during use:
 
-1. Check [Issues](https://github.com/huifer/Claude-Ally-Health/issues) to ensure the problem hasn't been reported
+1. Check [Issues](https://github.com/huifer/WellAlly-health/issues) to ensure the problem hasn't been reported
 2. If you don't find a related issue, create a new one
 3. Use the bug report template and provide as much detail as possible
 4. Include reproduction steps, expected behavior, and actual behavior
@@ -35,9 +35,37 @@ This is a very helpful way to contribute to the project. If you encounter issues
 
 If you have ideas for new features:
 
-1. Discuss in [Issues](https://github.com/huifer/Claude-Ally-Health/issues) first
+1. Discuss in [Issues](https://github.com/huifer/WellAlly-health/issues) first
 2. Explain the use case and why this feature would be useful
 3. If you receive positive feedback, you can start implementing
+
+### 🌟 Good First Issues
+
+Not sure where to start? We curate beginner-friendly tasks:
+
+- 🏷️ Browse the [**good first issue**](https://github.com/huifer/WellAlly-health/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) label
+- 💡 Or see [**help wanted**](https://github.com/huifer/WellAlly-health/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+- 💬 Ask or claim a task in [GitHub Discussions](https://github.com/huifer/WellAlly-health/discussions)
+- 📖 Read the [README](README.md) and [User Guide](docs/user-guide.en.md) first
+
+Common low-threshold contributions: command doc examples, translations, new
+drug-interaction rules, or improving a specialty Skill.
+
+### 🖥️ Try It Locally First
+
+Before changing code, try WellAlly Health locally to understand how it works:
+
+```bash
+# Prerequisite: Claude Code installed
+git clone https://github.com/huifer/WellAlly-health.git
+cd WellAlly-health
+# Open this directory in Claude Code, then try:
+/profile set 175 70 1990-01-01
+/save-report /path/to/a-report.jpg
+/query all
+```
+
+Experiencing the real data flow helps you propose user-centered improvements.
 
 ### Submitting Code
 
@@ -54,8 +82,8 @@ We welcome Pull Requests! Here's how to get started:
 
 2. **Clone Your Fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Claude-Ally-Health.git
-   cd Claude-Ally-Health
+   git clone https://github.com/YOUR_USERNAME/WellAlly-health.git
+   cd WellAlly-health
    ```
 
 3. **Create a Feature Branch**
@@ -189,7 +217,8 @@ refactor(data): optimize json structure for better performance
 
 If you have any questions, please contact us through:
 
-- Create a [GitHub Issue](https://github.com/huifer/Claude-Ally-Health/issues)
+- Join [GitHub Discussions](https://github.com/huifer/WellAlly-health/discussions)
+- Create a [GitHub Issue](https://github.com/huifer/WellAlly-health/issues)
 - Visit [WellAlly Tech](https://www.wellally.tech/)
 
 ## ⚖️ License

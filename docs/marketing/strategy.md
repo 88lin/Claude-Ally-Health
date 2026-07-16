@@ -1,4 +1,4 @@
-# Claude-Ally-Health 全球推广策略
+# WellAlly-health 全球推广策略
 
 > 零预算、纯社区驱动的开源项目推广计划
 

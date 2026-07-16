@@ -1,6 +1,6 @@
 # AI助手增强功能 - 实施总结
 
-**项目**: Claude-Ally-Health
+**项目**: WellAlly-health
 **模块**: 21 - AI助手增强功能
 **状态**: ✅ 已完成
 **实现日期**: 2025-01-08
@@ -376,5 +376,5 @@ AI助手增强功能已成功实现，所有核心功能均已完成并通过测
 ---
 
 **维护者**: Claude Code AI Assistant
-**项目**: Claude-Ally-Health
+**项目**: WellAlly-health
 **许可证**: 与项目主许可证一致

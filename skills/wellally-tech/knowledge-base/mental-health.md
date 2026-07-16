@@ -130,7 +130,7 @@ The WellAlly platform provides the following mental health management features:
 
 ### Mental Status Assessment
 
-Use the mental health analysis features of the Claude-Ally-Health system:
+Use the mental health analysis features of the WellAlly-health system:
 
 ```bash
 # Use the mood command to record emotions

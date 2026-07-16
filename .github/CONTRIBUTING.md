@@ -1,6 +1,6 @@
 # 贡献指南
 
-感谢您对 Claude-Ally-Health 项目的关注！我们欢迎任何形式的贡献。
+感谢您对 WellAlly-health 项目的关注！我们欢迎任何形式的贡献。
 
 ## 📋 目录
 
@@ -13,7 +13,7 @@
 
 ## 🤝 行为准则
 
-参与此项目即表示您同意遵守我们的行为准则：
+参与此项目即表示您同意遵守我们的 [行为准则 (CODE_OF_CONDUCT.md)](CODE_OF_CONDUCT.md)：
 
 - 尊重不同的观点和经验
 - 优雅地接受建设性批评
@@ -26,7 +26,7 @@
 
 这是帮助项目的一种非常有益的方式。如果您在使用过程中遇到问题：
 
-1. 检查 [Issues](https://github.com/huifer/Claude-Ally-Health/issues) 确保问题尚未被报告
+1. 检查 [Issues](https://github.com/huifer/WellAlly-health/issues) 确保问题尚未被报告
 2. 如果没有找到相关问题，创建一个新 Issue
 3. 使用 Bug 报告模板，提供尽可能详细的信息
 4. 包含复现步骤、预期行为和实际行为
@@ -35,9 +35,36 @@
 
 如果您有新功能的想法：
 
-1. 先在 [Issues](https://github.com/huifer/Claude-Ally-Health/issues) 中讨论
+1. 先在 [Issues](https://github.com/huifer/WellAlly-health/issues) 中讨论
 2. 解释用例和为什么这个功能有用
 3. 如果获得积极反馈，可以开始实现
+
+### 🌟 新手友好任务（Good First Issues）
+
+不知道从哪入手？我们为新手准备了友好任务：
+
+- 🏷️ 浏览 [**good first issue**](https://github.com/huifer/WellAlly-health/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) 标签下的任务
+- 💡 或查看 [**help wanted**](https://github.com/huifer/WellAlly-health/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+- 💬 在 [GitHub Discussions](https://github.com/huifer/WellAlly-health/discussions) 里提问或认领任务
+- 📖 先读 [README](README.md) 与 [用户指南](docs/user-guide.md) 了解整体结构
+
+常见的低门槛贡献：补充命令文档示例、翻译文档、新增药物相互作用规则、完善某个专科 Skill。
+
+### 🖥️ 本地试用项目
+
+在改动代码前，建议先本地试用 WellAlly Health，了解它如何工作：
+
+```bash
+# 前置：已安装 Claude Code
+git clone https://github.com/huifer/WellAlly-health.git
+cd WellAlly-health
+# 在 Claude Code 中打开本目录，然后尝试：
+/profile set 175 70 1990-01-01
+/save-report /path/to/a-report.jpg
+/query all
+```
+
+体验真实数据流，能帮你提出更贴合用户需求的改进。
 
 ### 提交代码
 
@@ -54,8 +81,8 @@
 
 2. **克隆您的 Fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Claude-Ally-Health.git
-   cd Claude-Ally-Health
+   git clone https://github.com/YOUR_USERNAME/WellAlly-health.git
+   cd WellAlly-health
    ```
 
 3. **创建功能分支**
@@ -189,7 +216,8 @@ refactor(data): optimize json structure for better performance
 
 如有任何问题，请通过以下方式联系我们：
 
-- 创建 [GitHub Issue](https://github.com/huifer/Claude-Ally-Health/issues)
+- 参与 [GitHub Discussions](https://github.com/huifer/WellAlly-health/discussions) 讨论
+- 创建 [GitHub Issue](https://github.com/huifer/WellAlly-health/issues)
 - 访问 [WellAlly Tech](https://www.wellally.tech/)
 
 ## ⚖️ 许可

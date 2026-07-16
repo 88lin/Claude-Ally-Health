@@ -1,4 +1,4 @@
-# Claude-Ally-Health 推广执行清单
+# WellAlly-health 推广执行清单
 
 ## 已创建的营销内容
 
@@ -113,7 +113,7 @@
 
 ### Hacker News Show HN
 ```markdown
-Title: Show HN: Claude-Ally-Health - AI-Native Personal Health System
+Title: Show HN: WellAlly-health - AI-Native Personal Health System
 
 Text: See README.en.md
 ```

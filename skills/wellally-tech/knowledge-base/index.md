@@ -264,7 +264,7 @@ All articles are hosted on the WellAlly.tech platform. Click links to access ful
 
 ## Related Skills
 
-In the Claude-Ally-Health system, the following skills relate to knowledge base articles:
+In the WellAlly-health system, the following skills relate to knowledge base articles:
 
 - **`health-trend-analyzer`**: Analyze health trends, recommend articles based on trends
 - **`nutrition-analyzer`**: Nutrition analysis, recommend diet-related articles

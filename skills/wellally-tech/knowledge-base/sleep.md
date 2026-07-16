@@ -122,7 +122,7 @@ The WellAlly platform provides the following sleep management features:
 
 ### Sleep Quality Assessment
 
-Use the sleep analysis features of the Claude-Ally-Health system:
+Use the sleep analysis features of the WellAlly-health system:
 
 ```bash
 # Use the sleep command to record sleep

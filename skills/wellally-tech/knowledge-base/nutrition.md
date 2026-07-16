@@ -111,7 +111,7 @@ The WellAlly platform provides the following nutrition management features:
 
 ### Nutritional Status Assessment
 
-Use the nutrition analysis features of the Claude-Ally-Health system:
+Use the nutrition analysis features of the WellAlly-health system:
 
 ```bash
 # Use the nutrition command to record diet
